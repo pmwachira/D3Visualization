@@ -1,5 +1,5 @@
 # D3Visualization
-Data Analytic dashboard powered by Python,Javascript, D3JS and MongoDB. Visualized using Flask and Keen.io
+Data Analytic dashboard powered by Python,Javascript, D3JS and MongoDB. Visualized using Flask and web layout template from Keen.io
 
 Data plotted is from https://data.donorschoose.org/docs/overview/
 
